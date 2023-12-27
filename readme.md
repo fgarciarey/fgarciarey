@@ -14,7 +14,7 @@
 <br/>  
 
 
-## My Skill Set  
+## <h3 align="center">Skills </h3>
 <table><tr><td valign="top" width="50%">
 
 
@@ -53,7 +53,7 @@
 <br/>  
 
 
-## Connect with me  
+## <h3 align="center">Contactame</h3> 
 <div align="center">
 <a href="https://github.com/https://github.com/fgarciarey" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -67,7 +67,7 @@
 <br/>  
 
 
-## Github Stats  
+## <h3 align="center">GitHub Stats </h3> 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fgarciarey&hide_border=true&layout=compact" align="left" />  
 
 <br/>    
