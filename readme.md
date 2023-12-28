@@ -2,13 +2,13 @@
 ### Ingeniero en Maquinaria Pesada y Vehículos Automotrices de profesión, actualmente estoy ampliando mi conjunto de habilidades y conocimientos con el objetivo de convertirme en un Desarrollador Web Full Stack. Mi trayectoria profesional en la ingeniería me ha proporcionado una sólida base en la resolución de problemas y la gestión de proyectos, habilidades que ahora estoy aplicando en el emocionante mundo del desarrollo web. Me comprometo con el aprendizaje continuo y la mejora constante, buscando nuevas oportunidades para fusionar mi experiencia en ingeniería con las tecnologías más avanzadas en el desarrollo y aplicarlas de manera efectiva. 👨‍💻 Trabajando remotamente desde 2023🚀  
   
 
-- 🔭🔭 Actualmente me encuentro trabajando [Wokeate](https://github.com/fgarciarey/WokeateEcommerceCliente)  
+- 🔭 Actualmente me encuentro trabajando [Wokeate](https://github.com/fgarciarey/WokeateEcommerceCliente) 🔭
   
 
-- 🌱 Siempre aprendiendo.  
+- 🌱 Siempre aprendiendo 🌱
   
 
-- 📨 Puedes contactarme [Aquí](mailto:felipe.agry@gmail.com)  
+- 📨 Puedes contactarme [Aquí](mailto:felipe.agry@gmail.com) 📨  
   
 
 <br/>  
